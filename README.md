@@ -1,6 +1,6 @@
 # Lagunitas Beer Website
 
-![Screenshot of Lagunitas Beer Website](./Home) <!-- Replace with the actual path to the screenshot file -->
+![Screenshot of Lagunitas Beer Website](https://github.com/DEBASIS000123/Lagunitas-/blob/main/img/Home.png) <!-- Replace with the actual path to the screenshot file -->
 
 ## Project Overview
 
